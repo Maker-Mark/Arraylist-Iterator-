@@ -1,0 +1,26 @@
+Data structuere: Way of organizing information in programs. Precisly: An abstract data type
+
+Data + operations on that data
+   -The user is not supposed to know how the data structure is implemented
+   
+   We need to know how the structues are better than others
+   - We use interfaces to make data structures
+     *Anthing that implements an interface can consider itself of that type
+     
+     
+The iterator inter     
+     
+     
+  DEF: 
+  -A DATA STRUCTURE is a "black box" that interacts with users by sepciified operations.The user is not supposed to know how the data structure is implemented(from a pure OOP perspective)
+  The Java collections Hierarchy
+    -A set of classes and interfaces that specify and implement data structures.
+  The collection interface is the super interface for all of Java's data structre specifications. All data structure impllements collection
+  
+  -Uses Generics
+  
+  
+
+  A data structre as an abstract idea is an interface, a class that implements it is using the 
+    
+    Tests Have Fill in the blanks, know this stuff ^^
