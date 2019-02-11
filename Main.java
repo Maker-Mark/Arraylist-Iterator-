@@ -49,6 +49,7 @@ public class Main{
      total += list.get(i);
      } 
       return total;
+      //kennyS wuz hure
       
     }
   // java has the for each loop that does ^^ using the iterator 
